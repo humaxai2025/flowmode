@@ -1,0 +1,4 @@
+cargo:rerun-if-changed=assets\NirCmd.chm
+cargo:rerun-if-changed=assets\nircmd.exe
+cargo:rerun-if-changed=assets\nircmdc.exe
+cargo:rerun-if-changed=assets

@@ -1,0 +1,21 @@
+NirCmd License Information
+=========================
+
+This application includes NirCmd, a freeware utility developed by NirSoft.
+
+NirCmd Copyright (c) 2003-2024 Nir Sofer
+Website: https://www.nirsoft.net/utils/nircmd.html
+
+NirCmd License Terms:
+- NirCmd is released as freeware
+- You are allowed to freely distribute this utility
+- Distribution must include all files in the original distribution package
+- No modifications are allowed to the distributed files
+- No charge is allowed for this distribution
+
+The bundled NirCmd files are used for Windows notification muting functionality
+in FlowMode. If you prefer not to use the bundled version, you can install
+NirCmd separately and place it in your system PATH.
+
+For the complete NirCmd documentation and latest version, visit:
+https://www.nirsoft.net/utils/nircmd.html

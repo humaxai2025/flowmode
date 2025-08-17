@@ -1,0 +1,33 @@
+# Default configuration for Flow Mode
+
+# Blocked websites (used when --whitelist is not active)
+block_list = [
+    "127.0.0.1 facebook.com",
+    "127.0.0.1 www.facebook.com",
+    "127.0.0.1 twitter.com",
+    "127.0.0.1 www.twitter.com",
+    "127.0.0.1 instagram.com",
+    "127.0.0.1 www.instagram.com",
+    "127.0.0.1 youtube.com",
+    "127.0.0.1 www.youtube.com",
+]
+
+# Blocked applications (executable names)
+app_block_list = [
+    "slack.exe",
+    "discord.exe",
+]
+
+# Whitelisted websites (used when --whitelist is active)
+# If this list is empty, all websites will be blocked in whitelist mode.
+whitelist = [
+    "google.com",
+    "github.com",
+]
+
+# Default Pomodoro settings
+[pomodoro_defaults]
+pomodoro = "25m"
+break = "5m"
+long_break = "15m"
+cycles = 4

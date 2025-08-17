@@ -1,0 +1,27 @@
+🚀 Starting Flow Mode session...
+📵 Blocking distracting websites...
+Created hosts file backup at user_hosts.backup
+
+📋 FlowMode is using a user-level hosts file for website blocking.
+   Location: C:\Users\Sriram\.flowmode\hosts
+
+   For full website blocking effectiveness, you may want to:
+   • Configure your DNS server to use this file as an additional hosts source
+   • Or copy the contents to C:\Windows\System32\drivers\etc\hosts (requires admin)
+   • Use browser extensions for additional blocking
+   • FlowMode will still provide focus tools and app blocking without admin rights
+
+🔪 Closing distracting applications...
+No instances of slack.exe found running under current user
+No instances of discord.exe found running under current user
+🔇 Muting notifications...
+Audio muted using user-level control (Windows)
+✅ Flow mode activated! Focus time begins now.
+📝 Working on: Path test
+Logging task: Path test
+🍅 Starting Pomodoro Work Session 1/1
+✅ Work session 1 completed!
+✅ Duration limit reached! Session completed.
+Removed user hosts file
+Audio unmuted using user-level control (Windows)
+🎉 Flow mode session completed and logged successfully!

@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cargo:*)",
+      "Bash(target/release/flowmode.exe:*)",
+      "WebFetch(domain:www.nirsoft.net)",
+      "Bash(curl:*)",
+      "Bash(unzip:*)",
+      "Bash(mv:*)",
+      "Bash(rm:*)",
+      "Bash(./target/debug/flowmode.exe start:*)",
+      "Bash(./target/release/flowmode.exe start:*)",
+      "Bash(dir hosts.backup)",
+      "Bash(cp:*)",
+      "Bash(.targetreleaseflowmode.exe stop)",
+      "Bash(dir:*)"
+    ],
+    "deny": []
+  }
+}
